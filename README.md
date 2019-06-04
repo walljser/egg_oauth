@@ -1,7 +1,4 @@
-# egg_wx_code_blog_server
-
-https://github.com/paprikaLang/egg-oauth
-https://github.com/acodercat/egg-oidc-server/blob/master/package.json
+# egg_oauth
 
 ## QuickStart
 
